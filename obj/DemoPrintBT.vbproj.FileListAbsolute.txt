@@ -1,0 +1,70 @@
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Release\ResolveAssemblyReference.cache
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Release\DemoPrint.Main.resources
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Release\DemoPrint.Resources.resources
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.vbproj.GenerateResource.Cache
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrint.exe
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrint.pdb
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrint.xml
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Debug\ResolveAssemblyReference.cache
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.Main.resources
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.Resources.resources
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.vbproj.GenerateResource.Cache
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.exe
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.xml
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.pdb
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.exe
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.pdb
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.xml
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.exe
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.xml
+C:\Productos ADC Movil\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.pdb
+C:\Productos ADC\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.exe
+C:\Productos ADC\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.pdb
+C:\Productos ADC\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.xml
+C:\Productos ADC\Programas Terminales\DemoPrintBT\obj\Release\ResolveAssemblyReference.cache
+C:\Productos ADC\Programas Terminales\DemoPrintBT\obj\Release\DemoPrint.Main.resources
+C:\Productos ADC\Programas Terminales\DemoPrintBT\obj\Release\DemoPrint.Resources.resources
+C:\Productos ADC\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.vbproj.GenerateResource.Cache
+C:\Productos ADC\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.exe
+C:\Productos ADC\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.xml
+C:\Productos ADC\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.pdb
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.exe
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.pdb
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.xml
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Release\ResolveAssemblyReference.cache
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Release\DemoPrint.Main.resources
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Release\DemoPrint.Resources.resources
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.vbproj.GenerateResource.Cache
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.exe
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.xml
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.pdb
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrintBT.exe
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrintBT.pdb
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrintBT.xml
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Debug\ResolveAssemblyReference.cache
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.Main.resources
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.Resources.resources
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.vbproj.GenerateResource.Cache
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.exe
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.xml
+C:\Productos Bildden\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.pdb
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrintBT.exe
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrintBT.pdb
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\bin\Debug\DemoPrintBT.xml
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.Main.resources
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrint.Resources.resources
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.vbproj.GenerateResource.Cache
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.exe
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.xml
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Debug\DemoPrintBT.pdb
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.exe
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.pdb
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\bin\Release\DemoPrintBT.xml
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Release\DemoPrint.Main.resources
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Release\DemoPrint.Resources.resources
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.vbproj.GenerateResource.Cache
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.exe
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.xml
+C:\Users\carlos\OneDrive\Programas Terminales\DemoPrintBT\obj\Release\DemoPrintBT.pdb

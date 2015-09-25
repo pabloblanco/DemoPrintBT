@@ -1,0 +1,37 @@
+
+
+
+                 ASOVORAGINE E.S.P              
+                  NIT:805012795                 
+            
+__________________________________________ 
+           
+Nombre:Joaris Angulo   Direccion:Calle 14b 42b 35
+Suscriptor:94520460                 Medidor:36687   
+Servicio:Acueducto Estrato:5 Diametro Acometida:80
+            
+__________________________________________ 
+Periodo Factura:201008 Ciclo:1   Dias Fac:12     
+__________________________________________ 
+Consumos Anteriores C1:10-C2:15-C3:
+__________________________________________ 
+INFO LECTURA: ACTUAL:900 ANTERIOR:850  
+__________________________________________ 
+CUENTAS VENCIDAS: 2                              
+__________________________________________ 
+             LIQUIDACION DE LA CUENTA            
+__________________________________________ 
+DESCRIPCION                           VALOR      
+CARGO FIJO AGUA                       1.000       
+CONSUMO AGUA                          1.000       
+CARGO FIJO ALCANTARILLADO             1.000       
+INTERESES DE MORA                     1.000       
+MATRICULA                             1.000       
+SALDO ANTERIOR                        1.000       
+ABONO                                 1.000       
+MULTAS                                1.000       
+RECONEXION                            1.000       
+__________________________________________ 
+TOTAL A PAGAR                         10.000       
+FECHA CON RECARGO:2010/08/09 
+SIN RECARGO:20100809  

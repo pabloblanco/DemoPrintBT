@@ -1,0 +1,31 @@
+
+
+SALES SLIP
+---------------------
+Empresa    BIL Coffee
+Empleado   LEE IL BOK
+Direccion
+ #501, Ontario 448,
+ Guadalajara, Jalisco
+ Mexico
+Tel +52 (33)3640 4549
+---------------------
+MASTER CARD
+---------------------
+CARD NO.  123-456-789
+EXPIRY     2015/12/10
+---------------------
+DATE       2008/05/15
+TRANS CLASS  [Credit]
+TERMINAL ID.123456789
+APPROVAL NO.987654321
+AMOUNT        $500.00
+---------------------
+SIGNATURE: 
+
+
+
+
+
+---------------------
+
